@@ -1,0 +1,2 @@
+# SCOUT
+HTML, SCSS, JS, GULP
